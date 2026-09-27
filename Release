@@ -1,0 +1,7 @@
+Origin: Roblox Server Redirector
+Label: Roblox Server Redirector
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Roblox Server Redirector Cydia repository

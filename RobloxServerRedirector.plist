@@ -1,0 +1,8 @@
+{
+    Filter = {
+        Bundles = (
+            "com.roblox.Roblox",
+            "com.roblox.robloxmobile"
+        );
+    };
+}

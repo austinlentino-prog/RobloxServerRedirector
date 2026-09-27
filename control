@@ -1,0 +1,9 @@
+Package: com.austin.robloxserverredirector
+Name: Roblox Server Redirector
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Description: Configurable server URL redirector for supported legacy Roblox iOS clients.
+Maintainer: Austin
+Author: Austin
+Section: Tweaks
+Depends: mobilesubstrate
